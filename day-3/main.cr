@@ -35,5 +35,5 @@ end
 
 good_id = (all_ids - bad_ids.to_a).first
 
-puts "part 1 full: #{square_inches}"
-puts "part 2 full: #{good_id}"
+puts "part 1: #{square_inches}"
+puts "part 2: #{good_id}"
